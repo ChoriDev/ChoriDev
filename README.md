@@ -1,4 +1,8 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Chori's%20Github&fontSize=90" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChoriDev&layout=compact">
+  <img src="https://github-readme-stats.vercel.app/api?username=ChoriDev&theme=dark&show_icons=true" />  
+</div>
 
 <!--
 **ChoriDev/ChoriDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
